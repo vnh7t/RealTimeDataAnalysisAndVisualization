@@ -7,11 +7,18 @@ The major goal of our project is to help the client to understand people's opini
 # Technology used:
 To achieve low latency we used Spark Eco System to Build ML Models, Preprocess and prediction.
 Spark structured streams are core of the project
-Visualisation part is handled by Dash a Python Library.
+Visualisation part is handled by SQL and Dash(a Python Library).
 
 ![Architecture Big Data](https://user-images.githubusercontent.com/58078466/166297435-96fabb3b-5428-4317-8c31-501e0c68034b.png)
 
 
+# Launching local server to pass tweets to local spark job
+<img width="1209" alt="image" src="https://user-images.githubusercontent.com/58078466/166303240-ca7bf89c-0cc0-4946-8ac5-a530555587bd.png">
+# Running spark job on back ground to pull live tweets from local servers as mentioned above and apply few transformation
+<img width="1095" alt="image" src="https://user-images.githubusercontent.com/58078466/166303600-c575f7d7-993d-4c15-ae92-8c010ea12734.png">
+
+# finally visuallized using sql, plotly and dash
+<img width="989" alt="image" src="https://user-images.githubusercontent.com/58078466/166304110-6cea370e-7da1-4c9b-81c5-03f87425d437.png">
 
 # Outputs:
 <img width="1920" alt="Screen Shot 2022-04-30 at 21 20 05" src="https://user-images.githubusercontent.com/58078466/166297497-6b5d09a4-c4f1-43b9-9fbe-542710411583.png">
