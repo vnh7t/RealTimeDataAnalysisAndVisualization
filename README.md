@@ -19,6 +19,8 @@ Visualisation part is handled by SQL and Dash(a Python Library).
 
 # finally visuallized using sql, plotly and dash
 <img width="989" alt="image" src="https://user-images.githubusercontent.com/58078466/166304110-6cea370e-7da1-4c9b-81c5-03f87425d437.png">
+# ML 
+<img width="1189" alt="image" src="https://user-images.githubusercontent.com/58078466/166304571-4608526b-89d8-48d3-becd-d5509e596e31.png">
 
 # Outputs:
 <img width="1920" alt="Screen Shot 2022-04-30 at 21 20 05" src="https://user-images.githubusercontent.com/58078466/166297497-6b5d09a4-c4f1-43b9-9fbe-542710411583.png">
